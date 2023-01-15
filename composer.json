@@ -1,0 +1,18 @@
+{
+    "name": "zengry/faille-no-sql",
+    "autoload": {
+        "psr-4": {
+            "Zengry\\FailleNoSql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zengry10",
+            "email": "R.lemoust@outlook.fr"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.15",
+        "jenssegers/mongodb": "^3.9"
+    }
+}
