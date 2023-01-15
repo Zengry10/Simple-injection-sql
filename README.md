@@ -1,4 +1,4 @@
-# Injection NOSQL 🕵🏻‍♂
+# 🕵🏻‍♂ Injection NOSQL 🕵🏻‍♂
 
 ### Hi 👋, I'm going to present you in this repository an example of **NoSQL Injection** rather basic in PHP Native.
 
@@ -12,7 +12,7 @@ If you use Atlas like me, you will have to change the **database connection info
 
 To execute the project, you only have to git clone this project and launch the following command in your terminal: 
 
-```http
+```php
   php -S localhost:8000 -t src
 ```
 
