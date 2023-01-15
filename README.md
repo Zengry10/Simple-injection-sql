@@ -1,4 +1,4 @@
-# 🕵🏻‍♂ Injection NOSQL 🕵🏻‍♂
+# 🕵🏻‍♂ NOSQL Injection 🕵🏻‍♂
 
 ### Hi 👋, I'm going to present you in this repository an example of **NoSQL Injection** rather basic in PHP Native.
 
